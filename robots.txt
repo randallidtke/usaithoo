@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimaexohti.retrospeculative.nl/sitemap.xml
